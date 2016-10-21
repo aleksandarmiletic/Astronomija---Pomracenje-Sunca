@@ -3,7 +3,7 @@
 Upoznavanje sa OpenGL bibliotekom u C-u.
 Seminarski rad za kurs Efemeridska Astronomija na Matematickom fakultetu, januar 2015.
 
-* Jezik: C/C++
+* Jezik: C++
 * Biblioteke: OpenGL
 
 Kontrole:
